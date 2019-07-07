@@ -1,1 +1,6 @@
 Editor de texto
+
+fer = 18
+gab = 93
+duda = 75
+floyd = peida
